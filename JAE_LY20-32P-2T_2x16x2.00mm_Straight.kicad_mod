@@ -64,7 +64,7 @@
   (pad 30 thru_hole circle (at 26 -2) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 31 thru_hole circle (at 28 -2) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 32 thru_hole circle (at 30 -2) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
-  (model Connectors_JAE.3dshapes/JAE_LY20-32P-2T_2x16x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JAE.3dshapes/JAE_LY20-32P-2T_2x16x2.00mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
